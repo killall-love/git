@@ -4,7 +4,7 @@ ___
 
   git clone 地址
   
-  git clone -b （分支） 地址
+  git clone -b 分支 地址
   
 ```
 ___
