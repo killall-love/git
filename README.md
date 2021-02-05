@@ -7,6 +7,7 @@ ___
   git clone -b （分支） 地址
   
 ```
+___
 # Git 下载单文件夹项目
 ```
 
@@ -21,7 +22,7 @@ ___
   git pull origin master
   
 ```
-
+___
 # Git 上传
 ```
   git init
@@ -35,3 +36,4 @@ ___
   git push -u origin master
   
 ```
+___
